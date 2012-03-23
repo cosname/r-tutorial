@@ -35,7 +35,7 @@ Being free is good, but if there are chances to make it even better, why not use
 
 We have volunteers from http://cos.name.
 
-* G_will <g_will@ieqi.com>
+* G_will &lt;g_will@ieqi.com&gt;
 
 * Xiaomao Li
 
