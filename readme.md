@@ -16,7 +16,7 @@ First we try to come up with a better HTML/CSS theme hopefully with the help of 
 
 ###Revise code
 
-Occasionally we need to update R code in the site, e.g. source("c:/stat/intro_function.txt", echo=T) in http://www.ats.ucla.edu/stat/r/library/intro_function.htm is bad; should be source("http://www.ats.ucla.edu/stat/r/library/intro_function.txt", echo=TRUE)
+Occasionally we need to update R code in the site, e.g. `source("c:/stat/intro_function.txt", echo=T)` in <http://www.ats.ucla.edu/stat/r/library/intro_function.htm> is bad; should be `source("http://www.ats.ucla.edu/stat/r/library/intro_function.txt", echo=TRUE)`
 
 ##Additional stuff
 
